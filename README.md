@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kutay</h1>
-<h3 align="center">Mobil-Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 - 📫 How to reach me **kutayt12@gmail.com**
 
