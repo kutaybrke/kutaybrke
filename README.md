@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kutay</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 📫 How to reach me **kutayt12@gmail.com**
+- 📫 How to reach me
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:kutayt12@gmail.com</h3>
 <p align="left">
 </p>
 
