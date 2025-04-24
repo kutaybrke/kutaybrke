@@ -3,7 +3,7 @@
 
 - 📫 How to reach me
 
-<h3 align="left">Connect with me: kutayt12@gmail.com</h3>
+<h3 align="left">Connect with me: kutayberketok@gmail.com</h3>
 <p align="left">
 </p>
 
